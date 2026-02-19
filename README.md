@@ -1,9 +1,10 @@
 
 # BBSR Energieausweis-Druckapplikation
 Status: Aktiv  
-Lizenz: GPLv3 Lizenz  
+Lizenz: GPLv3 und MIT  
 Sprachen: VB Net  
 Entwickeler: Visionworld GmbH (im Auftrag des BBSR)  
+Version: 1.0.9 (Stand: 01-2026) 
 
 ## Über dieses Projekt
 Die **BBSR Energieausweis-Druckapplikation** ist ein kostenfrei verfügbares Softwareinstrument zur **Erstellung von Energieausweisen** gemäß GEG
@@ -14,6 +15,9 @@ Von 2014 bis 2024 gab es die Druckapplikation, umgesetzt und gepflegt von der Fi
 Druckapplikation an, umgesetzt und gepflegt von der Firma Visionworld GmbH in VB.Net (IDE: Visual Studio 2019/2022 Professionell).
 Die neue Druckapplikation wird hier nun als Open Source Produkt angeboten.
 Ziel ist es, die Anwendung einer breiten Nutzergruppe zugänglich zu machen und der Softwarebranche eine Grundlage für eine eigenständige Weiterentwicklung der Druckapplikation zu geben.
+
+## Lizenzierung
+Die Druckapplikation ist dual-lizenziert unter der **GPLv3** und der **MIT-Lizenz**. Zwischen beiden Lizenzen kann frei gewählt werden, je nachdem, welche Anforderungen und Präferenzen für die Nutzung und Weiterentwicklung der Software bestehen.
 
 ## Technische Hintergrundinformationen
 
